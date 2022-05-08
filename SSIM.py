@@ -30,3 +30,5 @@ if __name__ == "__main__":
 	# If the input is a multichannel (color) image, set multichannel=True.
     result = cal_ssim(img1, img2)
     print(result)
+
+##testchange
